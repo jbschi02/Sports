@@ -1,0 +1,7 @@
+hello
+2nd place 000
+2nd place 010
+2nd place 011
+2nd place 100
+2nd place 110
+2nd place 111
